@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+gnews
+python-dotenv
+joblib
+flask
+flask-cors
